@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/image_preprocessor_ml.egg-info/PKG-INFO
+src/image_preprocessor_ml.egg-info/SOURCES.txt
+src/image_preprocessor_ml.egg-info/dependency_links.txt
+src/image_preprocessor_ml.egg-info/requires.txt
+src/image_preprocessor_ml.egg-info/top_level.txt
+tests/tests_basic.py
