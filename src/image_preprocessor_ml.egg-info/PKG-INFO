@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: image_preprocessor_ml
-Version: 0.1
+Version: 0.2
 Summary: Image preprocessing package for ML pipelines
 Author: Asif Durrani
 License-File: LICENSE

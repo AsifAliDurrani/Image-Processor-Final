@@ -2,6 +2,10 @@ LICENSE
 README.md
 pyproject.toml
 setup.py
+src/image_preprocessor_ml/__init__.py
+src/image_preprocessor_ml/background.py
+src/image_preprocessor_ml/resize.py
+src/image_preprocessor_ml/utils.py
 src/image_preprocessor_ml.egg-info/PKG-INFO
 src/image_preprocessor_ml.egg-info/SOURCES.txt
 src/image_preprocessor_ml.egg-info/dependency_links.txt
